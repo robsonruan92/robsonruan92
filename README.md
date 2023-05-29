@@ -1,16 +1,16 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
- I am an enthusiast for everything I can and like, so with technology and its gigantic world I wouldn't be left out, also i'm fascinated by the open-source culture and community and how far you can go having technical knowledge aligned with curiosity and enthusiasm. <strong>SRE at PagBank PagSeguro</strong>.<br>
-Currently as an SRE using the agile methodology and alignment with DevOps culture aiming at a better health of the environments of which I am responsible. Whenever possible I participate in bootcamps, lives, chats on discord, marathons about technology in general, and setting up my labs to deepen my knowledge in a more practical way. 
+As in this life nothing is created everything is copied here I am :)
+My name is Robson Ruan, today living in Brazil
+ 
+I work as <strong> SRE at PagBank PagSeguro</strong>.<br>
+ 
+Bachelor of Systems Analysis and Development.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
-</p>
-
-<p align="left">
-  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
+  <strong> 💼 What do I do?</strong>Making coffee turn into infrastructure code, using: Terraform, AWS, Shell, CI/CD and dopamine
 </p>
 
 <p align="left">
