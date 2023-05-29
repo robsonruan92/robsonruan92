@@ -3,19 +3,15 @@
 <p align="left"> 
 As in this life nothing is created everything is copied here I am :)
 
- My name is Robson Ruan, today living in Brazil
+My name is Robson Ruan, today living in Brazil and Bachelor of Systems Analysis and Development.
  
 I work as <strong> SRE at PagBank PagSeguro</strong>.<br>
  
-Bachelor of Systems Analysis and Development.
 </p>
 
 <p align="left">
-  <strong> 💼 What do I do?</strong>Making coffee turn into infrastructure code, using: Terraform, AWS, Shell, CI/CD and dopamine
-</p>
-
-<p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  <strong> 💼 What do I do??</strong>
+ Making coffee turn into infrastructure code, using: Terraform, AWS, Pyhton, YAML, Shell, CI/CD and dopamine sometimes :D
 </p>
 
 <p align="left">
