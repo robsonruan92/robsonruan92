@@ -59,13 +59,9 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-<br />
-
 ---
 
 #### 😂 Random Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
-<br />
 
 ---
