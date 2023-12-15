@@ -34,10 +34,12 @@
 </p> 
 <p align="left">
 </p>
-### ✍️ Random Quote
+
+#### ✍️ Random Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-### 😂 Random Meme
+#### 😂 Random Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
