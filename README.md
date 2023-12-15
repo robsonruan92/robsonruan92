@@ -13,7 +13,7 @@ My name is Robson Ruan, today living in Brazil and Bachelor's degree in Systems 
 ### 💼 What do I do??
 
  
- Making coffee turn into infrastructure code, using: Terraform, AWS, Pyhton, YAML, Shell, CI/CD and dopamine sometimes :D
+Making coffee and dopamine turn into infrastructure code, using: Terraform, AWS, Pyhton, YAML, Shell, CI/CD and others stuff :D
 
 <br />
 
@@ -38,7 +38,7 @@ My name is Robson Ruan, today living in Brazil and Bachelor's degree in Systems 
 </p>
 
 <br />
-
+---
    
 ### 💻 Tech Stack:
 
