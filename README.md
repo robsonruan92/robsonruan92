@@ -8,6 +8,8 @@ My name is Robson Ruan, today living in Brazil and Bachelor's degree in Systems 
  
 </p>
 
+<br />
+
 ### 💼 What do I do??
 
  
@@ -16,8 +18,6 @@ My name is Robson Ruan, today living in Brazil and Bachelor's degree in Systems 
 <br />
 
 ### 📱 Socials:
-
-<br />
 
 <p align="left">
    <a href="https://www.linkedin.com/in/robson-ruan-141b34161/" target="_blank">
@@ -41,8 +41,6 @@ My name is Robson Ruan, today living in Brazil and Bachelor's degree in Systems 
 
    
 ### 💻 Tech Stack:
-
-<br />
 
 <p align="left">
 
