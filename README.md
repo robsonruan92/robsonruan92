@@ -15,6 +15,9 @@
  Making coffee turn into infrastructure code, using: Terraform, AWS, Pyhton, YAML, Shell, CI/CD and dopamine sometimes :D
 </p>
 
+---
+
+### 🌐 Socials:
 
 <p align="left">
    <a href="https://www.linkedin.com/in/robson-ruan-141b34161/" target="_blank">
@@ -32,6 +35,7 @@
      <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium Robson Ruan">
    </a>
 
+---
    
 ### 💻 Tech Stack:
 
@@ -40,14 +44,15 @@
 <p align="left">
 </p>
 
+---
 
 #### ✍️ Random Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
+---
 
 #### 😂 Random Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=robsonruan92&icon=5&color=1)](https://visitcount.itsvg.in)
