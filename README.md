@@ -1,4 +1,4 @@
-## 💫 About Me:
+u## 👨🏽‍💻 About Me:
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
@@ -17,7 +17,7 @@
 
 ---
 
-### 🌐 Socials:
+### 📱 Socials:
 
 
 <p align="left">
@@ -50,7 +50,7 @@
 
 ---
 
-#### ✍️ Random Quote
+#### 🤔 Random Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
