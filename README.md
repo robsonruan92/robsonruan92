@@ -8,14 +8,11 @@
  
 </p>
 
-<p align="left">
-  <strong> 💼 What do I do??</strong>
+### 💼 What do I do??
  
  Making coffee turn into infrastructure code, using: Terraform, AWS, Pyhton, YAML, Shell, CI/CD and dopamine sometimes :D
-</p>
 
 
----
 
 ### 📱 Socials:
 
@@ -40,7 +37,7 @@
 </p>
 
 
----
+
    
 ### 💻 Tech Stack:
 
