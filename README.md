@@ -13,8 +13,7 @@
  Making coffee turn into infrastructure code, using: Terraform, AWS, Pyhton, YAML, Shell, CI/CD and dopamine sometimes :D
 
 
-
-## 📱 Socials:
+### 📱 Socials:
 
 <br />
 
@@ -39,7 +38,7 @@
 
 
    
-## 💻 Tech Stack:
+### 💻 Tech Stack:
 
 <p align="left">
 
