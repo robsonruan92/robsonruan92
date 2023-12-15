@@ -16,9 +16,8 @@
 </p>
 
 ---
-<br/>
 
-### 📱 Socials:
+<br />### 📱 Socials:
 
 
 <p align="left">
