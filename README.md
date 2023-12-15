@@ -37,8 +37,6 @@ Making coffee and dopamine turn into infrastructure code, using: Terraform, AWS,
    </a>
 </p>
 
-<br />
-
 ---
    
 ### 💻 Tech Stack:
