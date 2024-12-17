@@ -57,11 +57,3 @@ Making coffee and dopamine turn into infrastructure code, using: Terraform, AWS,
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
-
-### 😂 Random Meme
-
-<br />
-
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
