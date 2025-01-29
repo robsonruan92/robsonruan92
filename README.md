@@ -27,14 +27,6 @@ Making coffee and dopamine turn into infrastructure code, using: Terraform, AWS,
    <a href="mailto:robsonruan360@gmail.com" target="_blank">
      <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&" alt="Gmail Robson Ruan">
    </a>
- 
-   <a href="https://www.instagram.com/rruan92/" target="_blank">
-     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram Robson Ruan">
-   </a> 
-   
-   <a href="https://medium.com/@@robsonruan360" target="_blank">
-     <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium Robson Ruan">
-   </a>
 </p>
 
 ---
